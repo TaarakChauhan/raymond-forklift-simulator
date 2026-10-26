@@ -315,7 +315,7 @@ setupPreview();
 function setupPreview() { ctx.rand = rng(11); mode = setupMode('free', ctx); mode.scoring = false; setCam('orbit'); camera.position.set(sim.x + 5, 3, sim.z + 5); paused = true; }
 $('#loading').classList.add('hidden');
 if (params.has('autostart')) { $('#startBtn').click(); if (params.get('cam')) setCam(params.get('cam')); }
-else showPanel('#menu');
+else openMenu();
 requestAnimationFrame(frame);
 // test hooks
 window.__sim = { get sim() { return sim; }, get mode() { return mode; }, world, setCam, startMode, loadTruck: (id) => { loadTruck(id); }, SPECS, camera, renderer, scene, hud: updateHud };
