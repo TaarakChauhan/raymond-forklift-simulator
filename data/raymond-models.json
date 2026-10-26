@@ -1,0 +1,1070 @@
+{
+ "retrieved": "2026-10-26",
+ "source": "raymondcorp.com product pages and literature",
+ "models": [
+  {
+   "id": "7200",
+   "model": "7200 Reach-Fork Truck",
+   "series": "7000 Series",
+   "type": "Reach truck (narrow aisle)",
+   "operatorPosition": "Stand up",
+   "ratedCapacity": "3,500 to 4,000 lb (2,500 lb deep reach)",
+   "maxLiftHeight": "270 in max",
+   "travelSpeed": "Series brochure: 8.0 mph in any direction (model value not published separately)",
+   "battery": "24 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7200-reach-fork-truck",
+   "notes": ""
+  },
+  {
+   "id": "7300",
+   "model": "7300 Reach-Fork Truck",
+   "series": "7000 Series",
+   "type": "Reach truck (narrow aisle)",
+   "operatorPosition": "Stand up",
+   "ratedCapacity": "3,500 to 4,500 lb",
+   "maxLiftHeight": "372 in max",
+   "travelSpeed": "Series brochure: 8.0 mph in any direction",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7300-reach-fork-truck",
+   "notes": ""
+  },
+  {
+   "id": "7310",
+   "model": "7310 4-Directional Reach Truck",
+   "series": "7000 Series",
+   "type": "4 directional reach truck (long loads)",
+   "operatorPosition": "Stand up",
+   "ratedCapacity": "4,500 lb",
+   "maxLiftHeight": "270 in max",
+   "travelSpeed": "not published",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator",
+    "4 directional travel mode"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7310-4-d-reach-fork",
+   "notes": "Eliminates right angle turns for long loads; 9.25 in entry step."
+  },
+  {
+   "id": "7500US",
+   "model": "7500 Universal Stance Reach Truck",
+   "series": "7000 Series",
+   "type": "Reach truck (narrow aisle)",
+   "operatorPosition": "Stand up, facing forward or sideways (Universal Stance)",
+   "ratedCapacity": "3,500 to 4,500 lb",
+   "maxLiftHeight": "444 in max",
+   "travelSpeed": "Series brochure: 8.0 mph in any direction",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator",
+    "Optional secondary control handle"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7500-universal-stance",
+   "notes": ""
+  },
+  {
+   "id": "7500DS",
+   "model": "7500 Dockstance Reach Truck",
+   "series": "7000 Series",
+   "type": "Reach truck (narrow aisle)",
+   "operatorPosition": "Stand up, side stance (Dockstance)",
+   "ratedCapacity": "3,500 to 4,500 lb",
+   "maxLiftHeight": "444 in max",
+   "travelSpeed": "Series brochure: 8.0 mph in any direction",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7500-dockstance",
+   "notes": ""
+  },
+  {
+   "id": "7530",
+   "model": "7530 High Capacity Reach Truck",
+   "series": "7000 Series",
+   "type": "High capacity reach truck",
+   "operatorPosition": "Stand up (Universal Stance, Dockstance or Sit/Stand)",
+   "ratedCapacity": "4,500 lb; 2,000 lb to 505 in",
+   "maxLiftHeight": "542 in max",
+   "travelSpeed": "8.0 mph unloaded / 7.0 mph loaded; lift 168/90 fpm; lower 230/230 fpm (High Capacity brochure)",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7530-high-capacity-reach-truck",
+   "notes": "Speeds from the 7000 Series High Capacity Reach-Fork and Deep-Reach brochure."
+  },
+  {
+   "id": "7700",
+   "model": "7700 Sit/Stand Reach Truck",
+   "series": "7000 Series",
+   "type": "Reach truck (narrow aisle)",
+   "operatorPosition": "Sit or stand",
+   "ratedCapacity": "3,500 to 4,500 lb",
+   "maxLiftHeight": "444 in max",
+   "travelSpeed": "Series brochure: 8.0 mph in any direction",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7700-sit-stand-reach",
+   "notes": ""
+  },
+  {
+   "id": "7000DR",
+   "model": "7000 Series Deep-Reach Truck",
+   "series": "7000 Series",
+   "type": "Double deep reach truck",
+   "operatorPosition": "Stand up",
+   "ratedCapacity": "3,200 lb max",
+   "maxLiftHeight": "542 in max",
+   "travelSpeed": "not published",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle for travel and load handling (Raymond term; exact button layout not published on the page)",
+    "Steer tiller (steered idler, electric steering)",
+    "Multifunction 7 inch colour touchscreen",
+    "Height and tilt indicator"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/reach-fork-trucks/7000-deep-reach",
+   "notes": "Reaches pallets stored two deep."
+  },
+  {
+   "id": "5300",
+   "model": "5300 Orderpicker",
+   "series": "5000 Series",
+   "type": "Orderpicker (operator up)",
+   "operatorPosition": "Stand up on elevating platform",
+   "ratedCapacity": "2,000 lb at 241 in; 3,000 lb at 240 in (3 stage)",
+   "maxLiftHeight": "240 to 241 in (per capacity)",
+   "travelSpeed": "not published",
+   "battery": "24 V",
+   "keyControls": [
+    "Travel and lift control handle (simultaneous travel and lift/lower)",
+    "Steer wheel or tiller on operator platform",
+    "Integrated weight and height display",
+    "Operator fall protection (High Capacity model shows an iWAREHOUSE integrated tether system)",
+    "Auto locking pallet clamp (furniture model)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/orderpickers/5300-orderpicker",
+   "notes": ""
+  },
+  {
+   "id": "5500",
+   "model": "5500 Orderpicker",
+   "series": "5000 Series",
+   "type": "Orderpicker (operator up)",
+   "operatorPosition": "Stand up on elevating platform",
+   "ratedCapacity": "3,000 lb",
+   "maxLiftHeight": "366 in max",
+   "travelSpeed": "not published",
+   "battery": "24 V",
+   "keyControls": [
+    "Travel and lift control handle (simultaneous travel and lift/lower)",
+    "Steer wheel or tiller on operator platform",
+    "Integrated weight and height display",
+    "Operator fall protection (High Capacity model shows an iWAREHOUSE integrated tether system)",
+    "Auto locking pallet clamp (furniture model)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/orderpickers/5500-orderpicker",
+   "notes": "Brochure: travel speed optimized at height based on load height and weight."
+  },
+  {
+   "id": "5600",
+   "model": "5600 Orderpicker",
+   "series": "5000 Series",
+   "type": "Orderpicker (operator up)",
+   "operatorPosition": "Stand up on elevating platform",
+   "ratedCapacity": "3,000 lb at 24 in load center",
+   "maxLiftHeight": "456 in max",
+   "travelSpeed": "not published",
+   "battery": "36 V",
+   "keyControls": [
+    "Travel and lift control handle (simultaneous travel and lift/lower)",
+    "Steer wheel or tiller on operator platform",
+    "Integrated weight and height display",
+    "Operator fall protection (High Capacity model shows an iWAREHOUSE integrated tether system)",
+    "Auto locking pallet clamp (furniture model)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/orderpickers/5600-orderpicker",
+   "notes": "Brochure: 25% improved lift and lower speeds on the 5600."
+  },
+  {
+   "id": "FURN",
+   "model": "Furniture Orderpicker",
+   "series": "5000 Series",
+   "type": "Orderpicker (furniture, long loads)",
+   "operatorPosition": "Stand up on elevating platform",
+   "ratedCapacity": "1,500 lb at 48 in load center",
+   "maxLiftHeight": "390 in max",
+   "travelSpeed": "not published",
+   "battery": "24 or 36 V",
+   "keyControls": [
+    "Travel and lift control handle (simultaneous travel and lift/lower)",
+    "Steer wheel or tiller on operator platform",
+    "Integrated weight and height display",
+    "Operator fall protection (High Capacity model shows an iWAREHOUSE integrated tether system)",
+    "Auto locking pallet clamp (furniture model)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/orderpickers/furniture-orderpicker",
+   "notes": "Auto locking pallet clamp for stringers 1.25 to 5 in."
+  },
+  {
+   "id": "4260",
+   "model": "4260 Stand-Up Counterbalanced Truck",
+   "series": "4000 Series",
+   "type": "Counterbalanced, stand up",
+   "operatorPosition": "Stand up",
+   "ratedCapacity": "3,000 to 5,000 lb",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "8.0 mph loaded and unloaded",
+   "battery": "36 V",
+   "keyControls": [
+    "Single axis control handle",
+    "Adjustable steer tiller with electric power steering",
+    "Integral 4 in sideshift",
+    "Auto tilt leveling, height and tilt sensing",
+    "7 in touchscreen with height, tilt and load weight"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/counterbalanced-trucks/4260-stand-up-counterbalanced",
+   "notes": "New model previewed at MODEX 2026."
+  },
+  {
+   "id": "4460",
+   "model": "4460 Sit Down Counterbalanced Truck",
+   "series": "4000 Series",
+   "type": "Counterbalanced, sit down (3 wheel, compact)",
+   "operatorPosition": "Sit down",
+   "ratedCapacity": "3,000 to 4,000 lb",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "Unloaded 9.9 mph (36 V); 9.6 to 10.2 mph (48 V)",
+   "battery": "36 or 48 V",
+   "keyControls": [
+    "Steering wheel with tilt column",
+    "Hydraulic levers or fingertip controls (lift, tilt, sideshift)",
+    "Integral sideshift"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/counterbalanced-trucks/4460-sit-down-forklift",
+   "notes": ""
+  },
+  {
+   "id": "4750",
+   "model": "4750 Sit Down Counterbalanced Truck",
+   "series": "4000 Series",
+   "type": "Counterbalanced, sit down (4 wheel)",
+   "operatorPosition": "Sit down",
+   "ratedCapacity": "3,000 to 12,000 lb",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "Up to 12 mph (3k to 3.5k sell sheet: 11.5 mph; lift 84 fpm loaded, 124 fpm unloaded at 36 V)",
+   "battery": "36 or 48 V",
+   "keyControls": [
+    "Steering wheel with tilt column",
+    "Hydraulic controls (lift, tilt, sideshift)",
+    "Integral sideshift",
+    "Auto tilt leveling"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/counterbalanced-trucks/4750-sit-down-counterbalanced-forklift",
+   "notes": ""
+  },
+  {
+   "id": "4760",
+   "model": "4760 Sit Down Counterbalanced Truck",
+   "series": "4000 Series",
+   "type": "Counterbalanced, sit down (4 wheel)",
+   "operatorPosition": "Sit down",
+   "ratedCapacity": "4,000 to 6,500 lb",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "Up to 12.1 mph",
+   "battery": "36 or 48 V",
+   "keyControls": [
+    "Steering wheel, synchronized steering, optional electric power steering",
+    "Hydraulic controls",
+    "Integral sideshift"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/counterbalanced-trucks/4760-sit-down-counterbalanced-forklift",
+   "notes": ""
+  },
+  {
+   "id": "4800",
+   "model": "4800 Sit Down Counterbalanced Truck (pneumatic, outdoor)",
+   "series": "4000 Series",
+   "type": "Counterbalanced, sit down (pneumatic tyres)",
+   "operatorPosition": "Sit down",
+   "ratedCapacity": "4,000 to 7,000 lb",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "11.8 to 12.4 mph",
+   "battery": "80 V",
+   "keyControls": [
+    "Steering wheel",
+    "Armrest with fingertip hydraulic controls",
+    "Hang on sideshift"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/counterbalanced-trucks/4800",
+   "notes": ""
+  },
+  {
+   "id": "8210",
+   "model": "8210 Walkie Pallet Truck",
+   "series": "8000 Series",
+   "type": "Walkie pallet truck",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "4,500 lb",
+   "maxLiftHeight": "not published (low lift pallet truck)",
+   "travelSpeed": "3.9 mph",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8210-walkie-pallet-truck",
+   "notes": "28 in overall width."
+  },
+  {
+   "id": "8250",
+   "model": "8250 Lithium-ion Pallet Jack",
+   "series": "8000 Series",
+   "type": "Walkie pallet truck",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "5,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "not published",
+   "battery": "24 V Li ion, 78 Ah",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button",
+    "Click2Creep slow travel with tiller upright"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8250-lithium-ion-pallet-jack",
+   "notes": ""
+  },
+  {
+   "id": "8310",
+   "model": "8310 Walkie Pallet Truck",
+   "series": "8000 Series",
+   "type": "Walkie pallet truck (heavy duty)",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "6,000 or 8,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "3.9 mph loaded and unloaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8310-walkie-pallet-truck",
+   "notes": ""
+  },
+  {
+   "id": "8410",
+   "model": "8410 End Rider Pallet Truck",
+   "series": "8000 Series",
+   "type": "End rider pallet truck",
+   "operatorPosition": "Stand up, rider",
+   "ratedCapacity": "6,000 or 8,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "9 mph unloaded; 6.5 and 6.2 mph loaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button",
+    "PowerSteer"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8410-pallet-truck",
+   "notes": ""
+  },
+  {
+   "id": "8510",
+   "model": "8510 Center Rider Pallet Truck",
+   "series": "8000 Series",
+   "type": "Center rider pallet truck",
+   "operatorPosition": "Stand up, rider (center)",
+   "ratedCapacity": "6,000 or 8,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "9 mph unloaded; 6.5 and 6.2 mph loaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button",
+    "PowerSteer",
+    "Operator Compartment Sensor System"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8510-center-rider",
+   "notes": ""
+  },
+  {
+   "id": "8720",
+   "model": "8720 Second Level Orderpicker",
+   "series": "8000 Series",
+   "type": "Pallet truck with elevating operator platform",
+   "operatorPosition": "Stand up, rider",
+   "ratedCapacity": "6,000 or 8,000 lb",
+   "maxLiftHeight": "47 in (operator compartment lift)",
+   "travelSpeed": "not published",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button",
+    "PowerSteer",
+    "Platform raise and lower"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8720-second-level-pallet-jack",
+   "notes": ""
+  },
+  {
+   "id": "8810",
+   "model": "8810 Side Entry Pallet Truck",
+   "series": "8000 Series",
+   "type": "Side entry rider pallet truck",
+   "operatorPosition": "Stand up, rider",
+   "ratedCapacity": "6,000 or 8,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "9 mph unloaded; 6.5 mph loaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button",
+    "PowerSteer",
+    "Height adjustable control handle"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8810-side-entry-pallet-truck",
+   "notes": ""
+  },
+  {
+   "id": "8910",
+   "model": "8910 End Rider Pallet Truck",
+   "series": "8000 Series",
+   "type": "End rider pallet truck",
+   "operatorPosition": "Stand up, rider",
+   "ratedCapacity": "6,000 or 8,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "9 mph unloaded; 6.5 and 6.2 mph loaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button",
+    "PowerSteer"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/electric-pallet-jack/8910-end-rider-pallet-truck",
+   "notes": ""
+  },
+  {
+   "id": "6210",
+   "model": "6210 Walkie Straddle Stacker",
+   "series": "6000 Series",
+   "type": "Walkie stacker (straddle)",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "2,000 and 2,500 lb",
+   "maxLiftHeight": "143 in max",
+   "travelSpeed": "not published",
+   "battery": "24 V",
+   "keyControls": [
+    "Walkie control handle (tiller) with throttle",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) switch",
+    "Horn"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/stackers/6210-stacker",
+   "notes": ""
+  },
+  {
+   "id": "6310",
+   "model": "6310 Walkie Straddle Stacker",
+   "series": "6000 Series",
+   "type": "Walkie stacker (straddle)",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "2,200, 3,000 and 4,000 lb",
+   "maxLiftHeight": "189 in max",
+   "travelSpeed": "3.5 mph loaded and unloaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Walkie control handle (tiller) with throttle",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) switch",
+    "Horn",
+    "Sideshift",
+    "Optional power steering"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/stackers/6310-stacker",
+   "notes": ""
+  },
+  {
+   "id": "6410",
+   "model": "6410 Walkie Reach Stacker",
+   "series": "6000 Series",
+   "type": "Walkie reach stacker",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "3,000 lb",
+   "maxLiftHeight": "189 in max",
+   "travelSpeed": "3.5 mph loaded and unloaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Walkie control handle (tiller) with throttle",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) switch",
+    "Horn",
+    "Reach",
+    "Sideshift"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/stackers/6410-stacker",
+   "notes": ""
+  },
+  {
+   "id": "6510",
+   "model": "6510 Walkie Counterbalanced Stacker",
+   "series": "6000 Series",
+   "type": "Walkie counterbalanced stacker",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "2,000, 3,000 and 4,000 lb",
+   "maxLiftHeight": "189 in max",
+   "travelSpeed": "3.5 mph loaded and unloaded",
+   "battery": "24 V",
+   "keyControls": [
+    "Walkie control handle (tiller) with throttle",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) switch",
+    "Horn",
+    "Sideshift",
+    "Tilt",
+    "Optional power steering"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/stackers/6510-stacker",
+   "notes": ""
+  },
+  {
+   "id": "8530",
+   "model": "8530 Rider Stacker",
+   "series": "8000 Series",
+   "type": "Rider stacker",
+   "operatorPosition": "Stand up, rider",
+   "ratedCapacity": "2,500 lb",
+   "maxLiftHeight": "72 in",
+   "travelSpeed": "not published",
+   "battery": "24 V",
+   "keyControls": [
+    "Walkie control handle (tiller) with throttle",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) switch",
+    "Horn",
+    "PowerSteer"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/stackers/8530-rider-stacker",
+   "notes": ""
+  },
+  {
+   "id": "9600",
+   "model": "9600 Swing-Reach Truck",
+   "series": "9000 Series",
+   "type": "Very narrow aisle swing reach (turret)",
+   "operatorPosition": "Stand up, operator between mast uprights",
+   "ratedCapacity": "3,000 lb",
+   "maxLiftHeight": "394 in",
+   "travelSpeed": "not published",
+   "battery": "48 V",
+   "keyControls": [
+    "Dual hand controls (travel, lift, lower, traverse, rotate)",
+    "Wire guidance auto steer in aisle",
+    "Fork positioner and fork tilt (9800)",
+    "Vertical Hold preset heights (9800, up to 199 presets)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/swing-reach-trucks/9600-swing-reach",
+   "notes": "Loads up to 48 in deep by 108 in wide in aisles as narrow as 68 in."
+  },
+  {
+   "id": "9700",
+   "model": "9700 Swing-Reach Truck",
+   "series": "9000 Series",
+   "type": "Very narrow aisle swing reach (turret)",
+   "operatorPosition": "Stand up, operator between mast uprights",
+   "ratedCapacity": "3,000 lb",
+   "maxLiftHeight": "514 in plus",
+   "travelSpeed": "not published",
+   "battery": "48 V",
+   "keyControls": [
+    "Dual hand controls (travel, lift, lower, traverse, rotate)",
+    "Wire guidance auto steer in aisle",
+    "Fork positioner and fork tilt (9800)",
+    "Vertical Hold preset heights (9800, up to 199 presets)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/swing-reach-trucks/9700-swing-reach",
+   "notes": "Aisles as narrow as 66 in."
+  },
+  {
+   "id": "9800",
+   "model": "9800 Swing-Reach Truck",
+   "series": "9000 Series",
+   "type": "Very narrow aisle swing reach (turret), operator up",
+   "operatorPosition": "Stand up, operator up",
+   "ratedCapacity": "2,500 lb to nearly 50 ft; 3,300 lb to 30 ft",
+   "maxLiftHeight": "584 in plus",
+   "travelSpeed": "Main lift up to 88 ft/min",
+   "battery": "48 V",
+   "keyControls": [
+    "Dual hand controls (travel, lift, lower, traverse, rotate)",
+    "Wire guidance auto steer in aisle",
+    "Fork positioner and fork tilt (9800)",
+    "Vertical Hold preset heights (9800, up to 199 presets)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/swing-reach-trucks/9800-swing-reach",
+   "notes": "60 in overall width; articulated steering."
+  },
+  {
+   "id": "TRT",
+   "model": "Transtacker (TRT)",
+   "series": "Transtacker",
+   "type": "Very narrow aisle, operator up turret",
+   "operatorPosition": "Stand up, operator up",
+   "ratedCapacity": "4,000 lb",
+   "maxLiftHeight": "708 in",
+   "travelSpeed": "5.5 mph in storage aisle; 2.5 mph outside the aisle (VNA brochure)",
+   "battery": "36 V",
+   "keyControls": [
+    "PLC controls, transistorized speed control",
+    "Automatic steer lock in guided aisles"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/swing-reach-trucks/transtacker",
+   "notes": "54 in minimum aisle width."
+  },
+  {
+   "id": "9300",
+   "model": "9300 Sideloader",
+   "series": "9000 Series",
+   "type": "Sideloader (long loads)",
+   "operatorPosition": "Sit down / stand (not stated on page)",
+   "ratedCapacity": "6,000 lb",
+   "maxLiftHeight": "360 in max",
+   "travelSpeed": "not published",
+   "battery": "48 V",
+   "keyControls": [
+    "Independent steering of two wheels for sideways travel",
+    "Mast and carriage tilt",
+    "Optional rail guidance",
+    "Optional hydraulic fork positioner 15 to 48 in"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/sideloaders/9300-sideloader",
+   "notes": ""
+  },
+  {
+   "id": "9400",
+   "model": "9400 Sideloader",
+   "series": "9000 Series",
+   "type": "Sideloader (long loads)",
+   "operatorPosition": "Not stated on page",
+   "ratedCapacity": "12,000 lb",
+   "maxLiftHeight": "367 in max",
+   "travelSpeed": "not published",
+   "battery": "48 V",
+   "keyControls": [
+    "Independent steering of two wheels for sideways travel",
+    "Mast and carriage tilt",
+    "Optional rail guidance",
+    "Optional hydraulic fork positioner 15 to 48 in"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/sideloaders/9400-sideloader",
+   "notes": ""
+  },
+  {
+   "id": "8610",
+   "model": "8610 Tow Tractor",
+   "series": "8000 Series",
+   "type": "Tow tractor",
+   "operatorPosition": "Stand up, rider (walk through compartment)",
+   "ratedCapacity": "10,000 lb towing",
+   "maxLiftHeight": "Not applicable",
+   "travelSpeed": "not published",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle",
+    "PowerSteer with speed sensitive steering, slows in corners",
+    "Tow hitch"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/tow-tractors/8610-tow-tractor",
+   "notes": ""
+  },
+  {
+   "id": "8630",
+   "model": "8630 Tow Tractor",
+   "series": "8000 Series",
+   "type": "Tow tractor",
+   "operatorPosition": "Stand up, rider",
+   "ratedCapacity": "15,000 lb towing on flat surfaces",
+   "maxLiftHeight": "Not applicable",
+   "travelSpeed": "not published",
+   "battery": "24 V",
+   "keyControls": [
+    "Control handle",
+    "PowerSteer with speed sensitive steering",
+    "Tow hitch"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/tow-tractors/8630-tow-tractor",
+   "notes": ""
+  },
+  {
+   "id": "BASICS-WPT",
+   "model": "Raymond Basics Lithium-Ion Walkie Pallet Truck",
+   "series": "Raymond Basics",
+   "type": "Walkie pallet truck",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "3,300 or 4,500 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "2.8 to 3.0 mph (3,300 lb); 3.0 to 3.2 mph (4,500 lb)",
+   "battery": "24 V Li ion",
+   "keyControls": [
+    "Control handle (tiller) with dual throttle (butterfly) controls",
+    "Horn button",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) button"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/raymond-basics/lithium-ion-walkie-pallet-truck",
+   "notes": ""
+  },
+  {
+   "id": "BASICS-FOS",
+   "model": "Raymond Basics Lithium-Ion Fork-Over Stacker",
+   "series": "Raymond Basics",
+   "type": "Walkie stacker (fork over)",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "2,500 lb single stage; up to 2,600 lb two stage",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "2.6 to 2.8 mph",
+   "battery": "24 V Li ion",
+   "keyControls": [
+    "Walkie control handle (tiller) with throttle",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) switch",
+    "Horn"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/raymond-basics/lithium-ion-fork-over-stacker",
+   "notes": "53 in turning radius."
+  },
+  {
+   "id": "BASICS-SS",
+   "model": "Raymond Basics Lithium-Ion Straddle Stacker",
+   "series": "Raymond Basics",
+   "type": "Walkie stacker (straddle)",
+   "operatorPosition": "Walk behind",
+   "ratedCapacity": "2,600 lb (2,200 lb over 126 in lift)",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "2.6 to 2.8 mph",
+   "battery": "24 V Li ion",
+   "keyControls": [
+    "Walkie control handle (tiller) with throttle",
+    "Lift and lower buttons",
+    "Belly (emergency reverse) switch",
+    "Horn"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/raymond-basics/lithium-ion-straddle-stacker",
+   "notes": ""
+  },
+  {
+   "id": "BASICS-DWP",
+   "model": "Raymond Basics Drivable Work Platform",
+   "series": "Raymond Basics",
+   "type": "Drivable work platform",
+   "operatorPosition": "Stand on platform",
+   "ratedCapacity": "286 lb operator; 198 lb tray; 249 lb deck",
+   "maxLiftHeight": "Platform 118 to 128 in; working 190 to 200 in",
+   "travelSpeed": "3.1 mph",
+   "battery": "24 V",
+   "keyControls": [
+    "Platform drive and lift controls"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/raymond-basics/drivable-work-platform",
+   "notes": ""
+  },
+  {
+   "id": "3010",
+   "model": "Raymond Courier 3010 Automated Pallet Truck",
+   "series": "Courier (AGV)",
+   "type": "Automated guided pallet truck (Seegrid vision guided)",
+   "operatorPosition": "None (automated)",
+   "ratedCapacity": "not published",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "not published",
+   "battery": "not published",
+   "keyControls": [
+    "Automated"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/automated-lift-trucks/3010-raymond-courier-automated-pallet-truck",
+   "notes": "Model page redirects to the automated solutions overview; specs not published there."
+  },
+  {
+   "id": "3020",
+   "model": "Raymond Courier 3020 Automated Tow Tractor",
+   "series": "Courier (AGV)",
+   "type": "Automated tow tractor",
+   "operatorPosition": "None (automated)",
+   "ratedCapacity": "not published",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "not published",
+   "battery": "not published",
+   "keyControls": [
+    "Automated"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/automated-lift-trucks/3020-raymond-courier-automated-tow-tractor",
+   "notes": "Specs not published on the overview page."
+  },
+  {
+   "id": "3030",
+   "model": "Raymond Courier 3030 Automated Stacker",
+   "series": "Courier (AGV)",
+   "type": "Automated stacker",
+   "operatorPosition": "None (automated)",
+   "ratedCapacity": "not published",
+   "maxLiftHeight": "not published",
+   "travelSpeed": "not published",
+   "battery": "not published",
+   "keyControls": [
+    "Automated"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/automated-lift-trucks/3030-raymond-courier-automated-stacker",
+   "notes": "Specs not published on the overview page."
+  },
+  {
+   "id": "HPJ-RJ50N",
+   "model": "RJ50N Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,500 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/rj50n",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-RJ50P",
+   "model": "RJ50P Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/rj50p",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-Altra",
+   "model": "Altra Lift Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,500 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/altralift",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-LCF44",
+   "model": "LCF44 Freezer Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "4,400 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/lcf44",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-LCM4W",
+   "model": "LCM4W / LCU4W 4-Way Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/lcm4w-and-lcu4w",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-LCM50",
+   "model": "LCM50 / LCU50 Low Profile Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/lcm50-lcu50",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-LCS55",
+   "model": "LCS55 Unique Size Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,500 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/lcs55",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-LCS80",
+   "model": "LCS80 Heavy Duty Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "8,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/lcs80",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-Pallet",
+   "model": "Pallet Truck With Scale Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/pallet-truck-with-scale",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-PST23",
+   "model": "PST23 Power Start Assist Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "5,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/pst23",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-RG30E",
+   "model": "RG30E Electric Skid Lifter Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "3,000 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/rg30",
+   "notes": ""
+  },
+  {
+   "id": "HPJ-SS45",
+   "model": "SS45 Stainless Steel Hand Pallet Jack",
+   "series": "Hand pallet jacks",
+   "type": "Manual hand pallet jack",
+   "operatorPosition": "Walk behind (manual)",
+   "ratedCapacity": "4,400 lb",
+   "maxLiftHeight": "not published (low lift)",
+   "travelSpeed": "Manual",
+   "battery": "None (RG30E: 12 V DC)",
+   "keyControls": [
+    "Hand pump handle",
+    "Three position fingertip lever (raise, neutral, lower)"
+   ],
+   "source": "https://www.raymondcorp.com/forklifts/hand-pallet-jacks/ss45",
+   "notes": ""
+  }
+ ]
+}

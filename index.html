@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Forklift Operator Simulator · Raymond style trucks</title>
+<meta name="description" content="Practise forklift driving in your browser with six Raymond style trucks: reach truck, orderpicker, sit down and stand up counterbalanced, pallet truck and walkie stacker.">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">{"imports":{"three":"./vendor/three.module.min.js"}}</script>
+</head>
+<body>
+<div id="app">
+  <div id="loading" class="panel"><div class="spinner"></div><p>Loading the warehouse…</p></div>
+
+  <div id="hud" class="hidden">
+    <div id="topbar">
+      <div><div id="modeName"></div><div id="objective"></div><div id="detail"></div></div>
+      <div class="right"><span id="timer"></span><span id="score"></span>
+        <button id="camBtn" title="Camera (C)"><span id="camName">Chase view</span></button>
+        <button id="hudHelp">Help</button><button id="menuBtn">Menu</button></div>
+    </div>
+    <div id="gauges">
+      <div class="g"><label>Speed</label><b id="spd">0.0</b><small>mph</small><em id="kmh"></em><em id="dir"></em></div>
+      <div class="g"><label>Fork height</label><b id="hgt">0 in</b><em id="hgtm"></em><em id="mastx"></em></div>
+      <div class="g wide"><label>Load</label><b id="load">No load</b><em id="cap"></em>
+        <div class="bar"><div id="capbar"></div></div><label>Stability</label><div class="bar"><div id="stabbar"></div></div></div>
+      <div id="flags"></div>
+    </div>
+    <ul id="log"></ul>
+  </div>
+  <div id="toasts"></div>
+
+  <div id="menu" class="panel hidden"><div class="box wide">
+    <h1>Forklift Operator Simulator</h1>
+    <p class="disc"><b>Practice only.</b> This simulator helps you learn controls and safe habits. It does not replace formal operator training, a practical evaluation by your employer, or certification under OSHA 29 CFR 1910.178(l) in the United States or Ontario Regulation 851 and CSA B335 in Ontario. Always follow your site rules and the operator manual for your truck. The trucks are generic models styled after Raymond trucks and are not official Raymond products.</p>
+    <h2>1. Pick a truck</h2><div id="truckCards" class="cards"></div>
+    <div id="specBox"></div>
+    <h2>2. Pick a mode</h2><div id="modeCards" class="cards"></div>
+    <div class="row"><button id="startBtn" class="primary">Start</button><button id="resumeBtn">Resume</button><button id="helpBtn">How to play</button><button id="catBtn">All Raymond models</button><button id="shadowBtn">Shadows on</button><button id="muteBtn">Sound on</button></div>
+  </div></div>
+
+  <div id="help" class="panel hidden"><div class="box wide">
+    <h1>How to play</h1>
+    <div class="cols">
+      <div><h3>Keyboard</h3><table>
+        <tr><th>W or Up</th><td>Travel forks first</td></tr><tr><th>S or Down</th><td>Travel the other way</td></tr>
+        <tr><th>A and D, or Left and Right</th><td>Steer</td></tr><tr><th>Space</th><td>Brake</td></tr>
+        <tr><th>R and F</th><td>Raise and lower the forks</td></tr><tr><th>T and G</th><td>Tilt back and tilt forward</td></tr>
+        <tr><th>Z and X</th><td>Reach out and pull back (reach truck)</td></tr><tr><th>Q and E</th><td>Sideshift left and right</td></tr>
+        <tr><th>L</th><td>Level the forks</td></tr><tr><th>H</th><td>Horn</td></tr>
+        <tr><th>B</th><td>Seat belt or tether</td></tr><tr><th>P</th><td>Parking brake</td></tr><tr><th>K</th><td>Key on or off</td></tr>
+        <tr><th>C or 1 to 4</th><td>Change camera</td></tr><tr><th>V</th><td>Look behind (operator view)</td></tr>
+        <tr><th>Enter</th><td>Pick a case (orderpicker)</td></tr><tr><th>M</th><td>Sound on or off</td></tr><tr><th>Esc</th><td>Menu</td></tr></table></div>
+      <div><h3>Touch and game controller</h3>
+        <p>On a phone or tablet, use the stick on the left to drive and steer and the buttons on the right for the forks, horn, brake and camera.</p>
+        <p>With a game controller: triggers or the left stick drive, the left stick steers, the right stick lifts, the pad tilts and sideshifts, the bumpers reach, A is the horn, B brakes, Y changes camera, X is the belt, Back is the parking brake and Start opens the menu.</p>
+        <h3>Safe habits the simulator checks</h3>
+        <ul><li>Travel with the forks low, about 4 to 6 inches off the floor, and tilted back.</li>
+        <li>Slow down when turning. Fast turns, especially with a raised load, can tip the truck.</li>
+        <li>Never pick up more than the capacity shown in the panel. Capacity drops as the load gets higher or further out.</li>
+        <li>Sound the horn at the crosswalk and at aisle ends. Give way to people on foot.</li>
+        <li>Stay under the 5 mph site limit, wear your seat belt or tether, and look in the direction of travel.</li>
+        <li>Park with the forks on the floor and the parking brake set.</li></ul>
+        <h3>Counterbalanced trucks steer from the back</h3>
+        <p>The sit down and stand up trucks steer with the rear wheels, so the back swings wide when you turn. Leave room on that side.</p>
+        <h3>Picking up a pallet</h3>
+        <p>Line up square, bring the forks to the height of the pallet openings, drive in until the pallet touches the backrest, lift a little, tilt back, then back out slowly.</p>
+      </div>
+    </div>
+    <div class="row"><button class="back" data-to="game">Back</button></div>
+  </div></div>
+
+  <div id="catalog" class="panel hidden"><div class="box wide">
+    <h1>Raymond lift trucks</h1>
+    <p>Published figures from Raymond product pages. Where Raymond does not publish a number the table says so.</p>
+    <input id="catSearch" placeholder="Search models, for example reach or 8510">
+    <p id="catCount"></p>
+    <div class="tablewrap"><table class="cat"><thead><tr><th>Model</th><th>Type</th><th>Operator</th><th>Capacity</th><th>Lift height</th><th>Travel speed</th><th>Battery</th><th>Source</th></tr></thead><tbody id="catBody"></tbody></table></div>
+    <div class="row"><button class="back">Back</button></div>
+  </div></div>
+
+  <div id="inspect" class="panel side hidden"><div class="box">
+    <h2>Pre shift inspection</h2>
+    <p>Walk around the truck (drag to look, scroll to zoom). Mark each item OK or Fault, then submit.</p>
+    <ul id="inspList"></ul>
+    <div class="row"><button id="inspSubmit" class="primary">Submit checklist</button></div>
+  </div></div>
+
+  <div id="results" class="panel hidden"><div class="box">
+    <h1 id="resTitle"></h1><div id="resBody"></div>
+    <div class="row"><button id="againBtn" class="primary">Try again</button><button id="resMenuBtn">Menu</button></div>
+  </div></div>
+</div>
+<noscript>This simulator needs JavaScript and WebGL.</noscript>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
